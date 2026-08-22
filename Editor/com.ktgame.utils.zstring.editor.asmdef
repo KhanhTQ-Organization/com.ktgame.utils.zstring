@@ -1,0 +1,12 @@
+{
+  "name": "com.ktgame.utils.zstring.editor",
+  "rootNamespace": "com.ktgame.utils.zstring.editor",
+  "references": [
+    "com.ktgame.utils.zstring"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "optionalUnityReferences": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "com.ktgame.utils.zstring",
+  "version": "1.0.0",
+  "displayName": "com.ktgame.utils.zstring",
+  "description": "zstring",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://github.com/KhanhTQ-hub/com.utils.findreference2.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
